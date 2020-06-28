@@ -1,4 +1,4 @@
-package com.rhitm.demo.controller;
+package com.rhitm.demo.greeting.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

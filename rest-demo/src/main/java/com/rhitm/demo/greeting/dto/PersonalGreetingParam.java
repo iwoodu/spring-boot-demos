@@ -1,4 +1,4 @@
-package com.rhitm.demo.dto;
+package com.rhitm.demo.greeting.dto;
 
 import lombok.Getter;
 import lombok.Setter;

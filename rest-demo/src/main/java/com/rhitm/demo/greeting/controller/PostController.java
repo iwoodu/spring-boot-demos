@@ -1,7 +1,7 @@
-package com.rhitm.demo.controller;
+package com.rhitm.demo.greeting.controller;
 
-import com.rhitm.demo.dto.CustomGreetingParam;
-import com.rhitm.demo.dto.PersonalGreetingParam;
+import com.rhitm.demo.greeting.dto.CustomGreetingParam;
+import com.rhitm.demo.greeting.dto.PersonalGreetingParam;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
